@@ -7,7 +7,7 @@ Driven by a desire to make a tangible difference, I embarked on this journey to 
 
 2. **Average Dengue Cases per Capita by District**: By mapping the prevalence of dengue cases across Bangladesh's districts, this project aims to raise awareness about a pressing public health issue that impacts the lives of countless Bangladeshis every year.
 
-Through these visualizations, I hope to foster a deeper understanding and empathy for the socio-economic and environmental challenges that define my nation.
+Through these visualizations, I hope to foster a deeper understanding and empathy for the socio-economic and environmental challenges that unfortunately, still cripple my nation.
 
 ### Technologies Used
 
